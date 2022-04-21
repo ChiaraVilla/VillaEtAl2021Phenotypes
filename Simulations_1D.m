@@ -9,7 +9,7 @@
 %%%              Vietnamese Journal of Mathematics (2021)               %%%
 %%%                                                                     %%%
 %%%                                                                     %%%
-%%% (*) Email: cv23[at]st-andrews.ac.uk                                 %%%
+%%% (*) Email: chiara.villa.1[at]sorbonne-universite.fr                 %%%
 %%%                                                                     %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                                                     %%%
